@@ -1,0 +1,72 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 470 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Development\CodeWhileLearning\BowlingDemo\BowlingDemo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 4560x1086 at -2640,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'TotalScore') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 1.367841 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 309c -> priority: 1 
+  Thread -> id: 870 -> priority: 1 
+  Thread -> id: 2e7c -> priority: 1 
+  Thread -> id: de0 -> priority: 1 
+Bowl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+raising pins
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lowering pins
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bowl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+renewing pins
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nudged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nudged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
